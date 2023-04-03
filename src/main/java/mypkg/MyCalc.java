@@ -25,5 +25,6 @@ public class MyCalc {
 		System.out.println(ob.diff(10,2 ));
 		System.out.println(ob.mul(10,2 ));
 		System.out.println(ob.div(10,2 ));
+		System.out.println("hello world");
 	}
 }
