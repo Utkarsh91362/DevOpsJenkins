@@ -1,6 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Doc
-Build-Jdk: 17.0.5
+Build-Jdk-Spec: 17
 Main-Class: mypkg.MyCalc
 Created-By: Maven Integration for Eclipse
 

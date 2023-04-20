@@ -18,13 +18,5 @@ public class MyCalc {
 		return(a/b);
 	
 	}
-	
-	public static void main(String[] args) {
-		MyCalc ob= new MyCalc();
-		System.out.println(ob.sum(10,2 ));
-		System.out.println(ob.diff(10,2 ));
-		System.out.println(ob.mul(10,2 ));
-		System.out.println(ob.div(10,2 ));
-		System.out.println("hello world");
-	}
+
 }
